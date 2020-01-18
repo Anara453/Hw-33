@@ -1,0 +1,4 @@
+Exeption это проблема возникающая при выполнение программы
+NullPointerExeption,IndexBoudofExeption,ArrayoutOFBoudExeption
+Exeption это класс в котором обробатываются ошибки Exeption наследуется от throwoble a throwoble нвследуется от обьектаНе красиво будет выдовать ошибку :)
+try - вызывает находит исключение,catch - какую именно ошибку вызвать и отработает его 
